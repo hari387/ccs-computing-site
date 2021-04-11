@@ -571,16 +571,16 @@ th {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(54em - (30px * 2));
-  max-width: calc(54em - (30px * 2));
+  max-width: -webkit-calc(70em - (30px * 2));
+  max-width: calc(70em - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
-  @media screen and (max-width: 54em) {
+  @media screen and (max-width: 70em) {
     .wrapper {
-      max-width: -webkit-calc(54em - (30px));
-      max-width: calc(54em - (30px));
+      max-width: -webkit-calc(70em - (30px));
+      max-width: calc(70em - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
