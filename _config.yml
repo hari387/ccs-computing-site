@@ -18,7 +18,7 @@ theme: # leave it empty
 # social
 github:
   owner_name: CCS Computing
-  owner_url: https://github.com/ucsb-ccs-computing/ucsb-ccs-computing.github.io
+  owner_url: https://github.com/ucsb-ccs-computing/
 
 plugins:
   - jekyll-target-blank
@@ -26,7 +26,7 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['about', 'students', 'alumni', 'faculty', 'courses']
+header_page_refs: ['students', 'alumni', 'faculty', 'publications']
 
 collections:
   
